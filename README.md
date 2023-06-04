@@ -1,2 +1,2 @@
-# Competitive-Progromming-C-
+# Competitive-Progromming-C++
 Competitive-Programming-With-C++
